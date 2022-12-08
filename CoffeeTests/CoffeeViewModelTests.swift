@@ -31,7 +31,8 @@
 /// THE SOFTWARE.
 
 import XCTest
-@testable import Coffee
+@testable import CoffeeFelixAbalia1970
+
 
 @MainActor
 final class CoffeeViewModelTests: XCTestCase {
